@@ -12,23 +12,21 @@ Through a mix of weekly labs, individual projects, and a final capstone project,
 - Integrating APIs to fetch real-time data
 - Debugging and optimizing apps for performance
 
-This README will be updated weekly to reflect my completed work and personal notes.
-
 ---
 
 ## 📚 Course Overview
 
 | Unit | Topic | Key Concepts | My Work |
 | --- | --- | --- | --- |
-| 1 | Swift Basics (Part 1) | Variables, Functions, Closures | [Project 1: Mini Calculator](#) |
-| 2 | Swift Basics (Part 2) | Optionals, Unwrapping, Type Casting | [Project 2: Tip Calculator](#) |
-| 3 | UI Fundamentals | Labels, Buttons, ImageViews | [Project 3: Profile Creator](#) |
-| 4 | Networking Basics | URLSession, JSON Parsing, Data Models | [Project 4: Weather App](#) |
-| 5 | Lists & Dynamic Views | TableView, Networking, Data Sources | [Project 5: News Reader](#) |
-| 6 | Navigation & Data Passing | Navigation Controllers, Passing Data Between Screens | [Project 6: Movie Browser](#) |
-| 7 | Data Persistence | UserDefaults, TabBarControllers | [Project 7: Habit Tracker](#) |
-| 8 | Capstone Sprint 1 | App Brainstorming & Initial Setup | [Capstone App: TBD](#) |
-| 9 | Capstone Sprint 2 | App Development - Core Features | [Capstone App: In Progress](#) |
-| 10 | Demo Day 🎉 | Final App Presentation | [Capstone App: Final Version](#) |
+| 1 | Swift Basics (Part 1) | Variables, Functions, Closures | [Project 1: Wordle](https://github.com/iychi/CodePath_iOS101/tree/main/project1_wordle) |
+| 2 | Swift Basics (Part 2) | Optionals, Unwrapping, Type Casting | [Project 2: Wordle Pt. 2](#) |
+| 3 | UI Basics | Labels, Buttons, ImageViews | [Project 3: Trivia](#) |
+| 4 | Networking | Data Models, URLSession | [Project 4: Trivia Pt. 2](#) |
+| 5 | Common Views | Table views, URLSession | [Project 5: Tumblr](#) |
+| 6 | Passing Data | Push Navigation, Table View Cell | [Project 6: Tumblr Pt. 2](#) |
+| 7 | Local Persistence | UserDefaults, Tab Bar | [Project 7: Task Tracker](#) |
+| 8 | Capstone 1 | Sprint I | [Capstone Project](#) |
+| 9 | Capstone 2 | Sprint II | [Capstone Project](#) |
+| 10 | Demo Day 🎉 | App Presentation | [Capstone App](#) |
 
 ---
