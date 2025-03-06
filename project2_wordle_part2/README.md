@@ -1,8 +1,8 @@
-# Project 2 - *Wordle Clone: Pt.2*
+# Project 2 - * Wordle: Pt.2 *
 
 Submitted by: **Iyu Lin**
 
-**Wordle Clone: Pt.2** is an app that allows users to play a customizable Wordle game, where they can modify the number of letters, number of guesses, and even select different word themes.
+**Wordle: Pt.2** is an app that allows users to play a customizable Wordle game, where they can modify the number of letters, number of guesses, and even select different word themes.
 
 Time spent: **2.5** hours spent in total
 
@@ -27,7 +27,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 
-[![Watch the video](https://youtube.com/shorts/Oeu67WgWpNU?feature=share) 
+[![Watch the video](https://img.youtube.com/vi/Oeu67WgWpNU/maxresdefault.jpg)](https://youtube.com/shorts/Oeu67WgWpNU)
+ 
 
 ## Notes
 
