@@ -19,7 +19,7 @@ Through a mix of weekly labs, individual projects, and a final capstone project,
 | Unit | Topic | Key Concepts | My Work |
 | --- | --- | --- | --- |
 | 1 | Swift Basics (Part 1) | Variables, Functions, Closures | [Project 1: Wordle](https://github.com/iychi/CodePath_iOS101/tree/main/project1_wordle) |
-| 2 | Swift Basics (Part 2) | Optionals, Unwrapping, Type Casting | [Project 2: Wordle Pt. 2](#) |
+| 2 | Swift Basics (Part 2) | Optionals, Unwrapping, Type Casting | [Project 2: Wordle Pt. 2](https://github.com/iychi/CodePath_iOS101/tree/main/project2_wordle_part2) |
 | 3 | UI Basics | Labels, Buttons, ImageViews | [Project 3: Trivia](#) |
 | 4 | Networking | Data Models, URLSession | [Project 4: Trivia Pt. 2](#) |
 | 5 | Common Views | Table views, URLSession | [Project 5: Tumblr](#) |

@@ -1,4 +1,4 @@
-# Project 2 - * Wordle: Pt.2 *
+# Project 2 - Wordle: Pt.2
 
 Submitted by: **Iyu Lin**
 
